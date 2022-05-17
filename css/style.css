@@ -1,0 +1,71 @@
+
+.panda-card{
+    border: 0;
+    border-radius: 10px;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
+.panda-image{
+    height: 90px;
+}
+.watch-item-color{
+    background-color: #FFA500;
+}
+.bag-item-color{
+    background-color: #DA70D6;
+}
+.shoes-item-color{
+    background-color: #0000FF;
+}
+.panda-border{
+    border-radius: 30px;
+}
+
+.container #items{
+    background-color: #FFA500;
+}
+.alignment{
+    
+    background-color: #FCEAE8;
+    color: rgb(46, 47, 48);
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 10px;
+    align-items: center;
+}
+#subscribe{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+
+
+.gray{
+    color: rgb(73, 71, 71);
+}
+.btn-style{
+    background-color: #FF247A;
+    border-radius: 10px;
+    color: white;
+    height: 40px;
+    width: 140px;
+    text-decoration: none;
+    border: none;
+    padding: 5px;
+}
+.email{
+    height: 40px;
+    width: 242px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
